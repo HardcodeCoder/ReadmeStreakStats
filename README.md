@@ -15,12 +15,12 @@
 2. Replace the value after `?user=` with your GitHub username
 
 ```md
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HardcodeCoder)](https://git.io/streak-stats)
+[![GitHub Streak](https://readme-streak-stats-gamma.vercel.app/?user=HardcodeCoder)](https://git.io/streak-stats)
 ```
 
 3. Star the Original repo [here](https://github.com/DenverCoder1/github-readme-streak-stats). 😄
 
 ## ❗Note
-**This is a cloned version of the [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) project with some minor tweaks.** Please refer to the original repo for detailed instructions and updated docs.
+**This is a cloned version of the [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) project with some minor tweaks self hosted on [Vercel](https://vercel.com).** 
 
-Original Project: [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+Please refer to the original repo for detailed instructions and updated docs here: [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
